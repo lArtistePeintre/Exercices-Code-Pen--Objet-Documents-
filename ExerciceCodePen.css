@@ -1,0 +1,26 @@
+article {
+    padding-left : 15px;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 90%;
+    border: 3px solid red; = 
+    padding: 10px;
+  }getElementTagName
+  article p {
+    padding-left : 15px;
+    margin-left : 15px ; 
+  }
+  #main-content {
+    font-weight: bold;
+    color: red;
+  }
+  
+  .important {
+    font-style: italic;
+    color : green ;
+  }
+  #important li{
+    font-style: italic;
+    color : red ;
+    padding-left : 15px;
+  }
